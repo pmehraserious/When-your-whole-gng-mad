@@ -1,1 +1,1 @@
-print("saumy kys")
+print("saumy ily")
